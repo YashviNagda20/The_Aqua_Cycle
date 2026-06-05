@@ -136,8 +136,9 @@ Phase 3 (18+ months)     → National & Global scaling with city-specific custom
 
 ## 📎 Resources
 
-- 📄 Business Proposal (attached)
-- 📊 MVP Technical Documentation (attached)
+- 📄 Business Proposal [(attached)](https://github.com/YashviNagda20/The_Aqua_Cycle/blob/main/The%20Aqua%20Cycle.pdf)]
+- 📄 Business Problem (https://github.com/YashviNagda20/The_Aqua_Cycle/blob/main/Business%20Challenge%20Proposal.pdf)
+- 📊 MVP Technical Documentation [(attached)](https://github.com/YashviNagda20/The_Aqua_Cycle/blob/main/Phase%203_%20MVP%20Prototyping%20and%20Testing%20(1).pdf)]
 
 ---
 
