@@ -1,4 +1,4 @@
-# 💧 The Aqua Cycle — *Go Green, Go Fresh*
+# 💧 The Aqua Cycle: *Go Green, Go Fresh*
 
 > Reducing single-use plastic waste through IoT-enabled smart water fountains and an AI-powered mobile app, piloted in Boston, MA.
 
